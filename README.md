@@ -20,4 +20,6 @@ The portfolio aims to present the journey, aspirations, and achievements of Gowr
 1. **Clone the Repository**:
    Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/my-portfolio-website.git
+   git clone https://github.com/gowry12/my-portfolio-website.git
+##sreenshot
+
