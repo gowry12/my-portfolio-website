@@ -23,3 +23,9 @@ The portfolio aims to present the journey, aspirations, and achievements of Gowr
    git clone https://github.com/gowry12/my-portfolio-website.git
 ##sreenshot
 
+<img width="949" alt="Screenshot 2024-12-20 115036" src="https://github.com/user-attachments/assets/e8591a23-f419-4678-9c41-ec21fcda8d72" />
+<img width="939" alt="Screenshot 2024-12-20 115047" src="https://github.com/user-attachments/assets/ade848a9-1612-4e8f-a2c5-8800f2fc6d6d" />
+<img width="950" alt="Screenshot 2024-12-20 115101" src="https://github.com/user-attachments/assets/48f2d8ef-2628-4536-8836-5de32af6cf5b" />
+<img width="948" alt="Screenshot 2024-12-20 115112" src="https://github.com/user-attachments/assets/372270be-f3e6-4c6d-a45d-7048c261d624" />
+<img width="947" alt="Screenshot 2024-12-20 115129" src="https://github.com/user-attachments/assets/94f73f19-0bb1-4281-9da0-8660891029c5" />
+<img width="948" alt="Screenshot 2024-12-20 115141" src="https://github.com/user-attachments/assets/9ff1608a-1daf-4d85-ac25-be3ee2d1a1ce" />
